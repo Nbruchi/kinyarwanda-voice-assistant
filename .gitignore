@@ -1,0 +1,5 @@
+kinya-whisper-model/checkpoint-*/
+.venv
+.idea
+config.bat
+node_modules
